@@ -4,4 +4,4 @@ THE CODING JUNIOR as quickly as possible, as well as support if you get stuck.
 Let's jump right in!
 
 Author: The Coding Junior
-License: 
+
